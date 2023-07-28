@@ -6,6 +6,7 @@ public class Main {
 
         task1();
         task2();
+        task3();
         System.out.println("Hello world!");
 
     }
@@ -15,6 +16,11 @@ public class Main {
     }
 //task2
     private static void task2() {
+
+    }
+
+    //task 3
+    private static void task3() {
 
     }
 }
