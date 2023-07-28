@@ -13,7 +13,7 @@ public class Main {
     private static void task1() {
 
     }
-
+//task2
     private static void task2() {
 
     }
